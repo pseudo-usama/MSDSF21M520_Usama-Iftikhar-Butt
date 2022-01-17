@@ -7,7 +7,7 @@ from searching import *
 
 DATASET_FILE_NAME = 'dataset.csv'
 RESULT_FILE_NAME = 'matches.json'
-GIST_URL = 'https://gist.github.com/pseudo-usama/f76a06f5d5e34371c3d445e549d78cc6/raw/33a1abc33dff9cffd5f91f685b393a90e30d36e6/persons-dataset.csv'
+GIST_URL = 'https://gist.githubusercontent.com/pseudo-usama/aeab91fca119392b20a83b78871debcd/raw/c98a280a66d52bf091892137cd1b1c37d5644e90/dataset.csv'
 
 
 def what_to_extract(argv):
